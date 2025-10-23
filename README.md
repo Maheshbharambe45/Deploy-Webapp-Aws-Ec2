@@ -1,4 +1,4 @@
-#  Deploy a Web Application on AWS EC2 (Ubuntu AMI)
+#  Deploy a Web Application on AWS EC2 
 
 ## Prerequisites
  
